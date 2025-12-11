@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Как правильно приседать",
+    "description": "Разбираем технику приседаний, распространённые ошибки и как их исправить.",
+    "image": "https://econet.ru/uploads/pictures/529054/content_%D0%BF%D1%80%D0%B8%D1%81%D0%B5%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F2.jpg",
+    "category": "Техника"
+  },
+  {
+    "id": 2,
+    "title": "Что есть перед тренировкой",
+    "description": "Лучшие продукты и тайминг питания до занятий, чтобы повысить эффективность.",
+    "image": "https://media.istockphoto.com/id/1433432507/ru/%D1%84%D0%BE%D1%82%D0%BE/%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%BE%D0%B5-%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D0%B5-%D1%82%D0%B0%D1%80%D0%B5%D0%BB%D0%BA%D0%B0-%D1%81-%D0%B2%D0%B5%D0%B3%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B9-%D0%B8%D0%BB%D0%B8-%D0%B2%D0%B5%D0%B3%D0%B5%D1%82%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B9-%D0%BF%D0%B8%D1%89%D0%B5%D0%B9-%D0%B2-%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D1%85-%D1%80%D1%83%D0%BA%D0%B0%D1%85-%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B0%D1%8F.jpg?s=612x612&w=0&k=20&c=McUUs8JfMvbVF6uMCTQkFSNZpktm_tg8Fuhfr0nBy1Q=",
+    "category": "Питание"
+  },
+  {
+    "id": 3,
+    "title": "Почему важна разминка",
+    "description": "Преимущества разминки: профилактика травм, повышение производительности и примеры упражнений.",
+    "image": "https://s1.tchkcdn.com/g-KYXBTFi7iRzLPx4JvkoBxg/13/684158/660x480/f/0/1c6_depositphotos_213593336_s_2019.jpg",
+    "category": "Здоровье"
+  },
+  {
+    "id": 4,
+    "title": "Как восстановиться после тяжёлой тренировки",
+    "description": "Сон, питание, гидратация и активное восстановление — проверенные подходы.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-wbczK4ghkM3eEmWNhC_M5h8GlqaPgmORMw&s",
+    "category": "Восстановление"
+  }
+]
